@@ -60,6 +60,35 @@ I like shipping products with strong foundations: type safety, maintainable arch
   <img src="https://thesvg.org/icons/codex/default.svg" width="42" height="42" alt="GitHub" title="Codex" />
 </p>
 
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-0A0A0A?style=for-the-badge&logo=tanstack&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0A0A0A?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Backend and database
+
+![Bun](https://img.shields.io/badge/Bun-0A0A0A?style=for-the-badge&logo=bun&logoColor=white)
+![Elysia](https://img.shields.io/badge/Elysia-0A0A0A?style=for-the-badge&logo=bun&logoColor=white)
+![ORPC](https://img.shields.io/badge/oRPC-0A0A0A?style=for-the-badge)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0A0A0A?style=for-the-badge&logo=drizzle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-0A0A0A?style=for-the-badge&logo=neon&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-0A0A0A?style=for-the-badge&logo=zod&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-0A0A0A?style=for-the-badge&logo=temporal&logoColor=white)
+
+### Mobile, tooling, and infrastructure
+
+![Expo](https://img.shields.io/badge/Expo-0A0A0A?style=for-the-badge&logo=expo&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-0A0A0A?style=for-the-badge&logo=turborepo&logoColor=white)
+![Biome](https://img.shields.io/badge/Biome-0A0A0A?style=for-the-badge&logo=biome&logoColor=white)
+![Devbox](https://img.shields.io/badge/Devbox-0A0A0A?style=for-the-badge&logo=devbox&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-0A0A0A?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![SOPS](https://img.shields.io/badge/SOPS-0A0A0A?style=for-the-badge)
+
 ### Programming languages I know
 
 <p align="left">
@@ -175,34 +204,6 @@ I like shipping products with strong foundations: type safety, maintainable arch
   <img src="https://thesvg.org/icons/github-actions/default.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" />
   <img src="https://thesvg.org/icons/linux/default.svg" width="38" height="38" alt="Linux" title="Linux" />
 </p>
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-0A0A0A?style=for-the-badge&logo=tanstack&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0A0A0A?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-### Backend and database
-
-![Bun](https://img.shields.io/badge/Bun-0A0A0A?style=for-the-badge&logo=bun&logoColor=white)
-![Elysia](https://img.shields.io/badge/Elysia-0A0A0A?style=for-the-badge&logo=bun&logoColor=white)
-![ORPC](https://img.shields.io/badge/oRPC-0A0A0A?style=for-the-badge)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0A0A0A?style=for-the-badge&logo=drizzle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-0A0A0A?style=for-the-badge&logo=neon&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-0A0A0A?style=for-the-badge&logo=zod&logoColor=white)
-![Temporal](https://img.shields.io/badge/Temporal-0A0A0A?style=for-the-badge&logo=temporal&logoColor=white)
-
-### Mobile, tooling, and infrastructure
-
-![Expo](https://img.shields.io/badge/Expo-0A0A0A?style=for-the-badge&logo=expo&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-0A0A0A?style=for-the-badge&logo=turborepo&logoColor=white)
-![Biome](https://img.shields.io/badge/Biome-0A0A0A?style=for-the-badge&logo=biome&logoColor=white)
-![Devbox](https://img.shields.io/badge/Devbox-0A0A0A?style=for-the-badge&logo=devbox&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-0A0A0A?style=for-the-badge&logo=traefikproxy&logoColor=white)
-![SOPS](https://img.shields.io/badge/SOPS-0A0A0A?style=for-the-badge)
 
 ---
 
