@@ -55,12 +55,28 @@ I like shipping products with strong foundations: type safety, maintainable arch
   <img src="https://thesvg.org/icons/github/default.svg" width="42" height="42" alt="GitHub" title="GitHub" />
   <img src="https://thesvg.org/icons/polar/default.svg" width="42" height="42" alt="GitHub" title="Polar" />
   <img src="https://thesvg.org/icons/better-auth/default.svg" width="42" height="42" alt="GitHub" title="Better Auth" />
+  <img src="https://thesvg.org/icons/temporal/default.svg" width="42" height="42" alt="GitHub" title="Temporal" />
+  <img src="https://thesvg.org/icons/claude/default.svg" width="42" height="42" alt="GitHub" title="Claude" />
+  <img src="https://thesvg.org/icons/codex/default.svg" width="42" height="42" alt="GitHub" title="Codex" />
 </p>
 
-### Languages
+### Programming languages I know
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=white)
+<p align="left">
+  <img src="https://thesvg.org/icons/typescript/default.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
+  <img src="https://thesvg.org/icons/javascript/default.svg" width="38" height="38" alt="JavaScript" title="JavaScript" />
+  <img src="https://thesvg.org/icons/html5/default.svg" width="38" height="38" alt="HTML5" title="HTML5" />
+  <img src="https://thesvg.org/icons/css/default.svg" width="38" height="38" alt="CSS" title="CSS" />
+  <img src="https://thesvg.org/icons/sql/default.svg" width="38" height="38" alt="SQL" title="SQL" />
+  <img src="https://thesvg.org/icons/bash/default.svg" width="38" height="38" alt="Bash" title="Bash" />
+  <img src="https://thesvg.org/icons/swift/default.svg" width="38" height="38" alt="Swift" title="Swift" />
+  <img src="https://thesvg.org/icons/go/default.svg" width="38" height="38" alt="Golang" title="Golang" />
+  <img src="https://thesvg.org/icons/csharp/default.svg" width="38" height="38" alt="C#" title="C#" />
+  <img src="https://thesvg.org/icons/dotnet/default.svg" width="38" height="38" alt=".NET" title=".NET" />
+  <img src="https://thesvg.org/icons/java/default.svg" width="38" height="38" alt="Java" title="Java" />
+  <img src="https://thesvg.org/icons/python/default.svg" width="38" height="38" alt="Python" title="Python" />
+  <img src="https://thesvg.org/icons/php/default.svg" width="38" height="38" alt="PHP" title="PHP" />
+</p>
 
 ### Frontend
 
@@ -106,14 +122,21 @@ I like shipping products with strong foundations: type safety, maintainable arch
 
 ## 📊 GitHub stats
 
+## 📌 GitHub activity
+
+<p align="left">
+  <a href="https://github.com/arnoldfederis?tab=repositories">
+    <img src="https://img.shields.io/badge/Public_repositories-View_on_GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="View public repositories" />
+  </a>
+  <a href="https://github.com/arnoldfederis?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-Connect_on_GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers" />
+  </a>
+</p>
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arnoldfederis&show_icons=true&hide_border=true&theme=transparent" alt="Arnolfo's GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=arnoldfederis&hide_border=true&theme=transparent" alt="Arnolfo's GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldfederis&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</div>
 
 ---
 
