@@ -71,11 +71,95 @@ I like shipping products with strong foundations: type safety, maintainable arch
   <img src="https://thesvg.org/icons/swift/default.svg" width="38" height="38" alt="Swift" title="Swift" />
   <img src="https://thesvg.org/icons/go/default.svg" width="38" height="38" alt="Golang" title="Golang" />
   <img src="https://thesvg.org/icons/csharp/default.svg" width="38" height="38" alt="C#" title="C#" />
-  <img src="https://thesvg.org/icons/dotnet/default.svg" width="38" height="38" alt=".NET" title=".NET" />
   <img src="https://thesvg.org/icons/java/default.svg" width="38" height="38" alt="Java" title="Java" />
   <img src="https://thesvg.org/icons/python/default.svg" width="38" height="38" alt="Python" title="Python" />
   <img src="https://thesvg.org/icons/php/default.svg" width="38" height="38" alt="PHP" title="PHP" />
 </p>
+
+## Language and framework pairs I know
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://thesvg.org/icons/swift/default.svg" width="36" height="36" alt="Swift" title="Swift" />
+      <br />
+      <strong>Swift</strong>
+    </td>
+    <td align="center">-&gt;</td>
+    <td align="center">
+      <img src="https://thesvg.org/icons/swift/default.svg" width="36" height="36" alt="SwiftUI" title="SwiftUI" />
+      <br />
+      <strong>SwiftUI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://thesvg.org/icons/go/default.svg" width="36" height="36" alt="Golang" title="Golang" />
+      <br />
+      <strong>Golang</strong>
+    </td>
+    <td align="center">-&gt;</td>
+    <td align="center">
+      <img src="https://thesvg.org/icons/go/default.svg" width="36" height="36" alt="Gin" title="Gin" />
+      <br />
+      <strong>Gin / Fiber</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://thesvg.org/icons/csharp/default.svg" width="36" height="36" alt="C#" title="C#" />
+      <br />
+      <strong>C#</strong>
+    </td>
+    <td align="center">-&gt;</td>
+    <td align="center">
+      <img src="https://thesvg.org/icons/dotnet/default.svg" width="36" height="36" alt=".NET" title=".NET" />
+      <br />
+      <strong>.NET</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://thesvg.org/icons/java/default.svg" width="36" height="36" alt="Java" title="Java" />
+      <br />
+      <strong>Java</strong>
+    </td>
+    <td align="center">-&gt;</td>
+    <td align="center">
+      <img src="https://thesvg.org/icons/spring/default.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot" />
+      <br />
+      <strong>Spring Boot</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://thesvg.org/icons/python/default.svg" width="36" height="36" alt="Python" title="Python" />
+      <br />
+      <strong>Python</strong>
+    </td>
+    <td align="center">-&gt;</td>
+    <td align="center">
+      <img src="https://thesvg.org/icons/django/default.svg" width="36" height="36" alt="Django" title="Django" />
+      <img src="https://thesvg.org/icons/fastapi/default.svg" width="36" height="36" alt="FastAPI" title="FastAPI" />
+      <br />
+      <strong>Django / FastAPI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://thesvg.org/icons/php/default.svg" width="36" height="36" alt="PHP" title="PHP" />
+      <br />
+      <strong>PHP</strong>
+    </td>
+    <td align="center">-&gt;</td>
+    <td align="center">
+      <img src="https://thesvg.org/icons/laravel/default.svg" width="36" height="36" alt="Laravel" title="Laravel" />
+      <br />
+      <strong>Laravel</strong>
+    </td>
+  </tr>
+</table>
+
 
 ### DevOps, cloud, and infrastructure I know
 
@@ -91,7 +175,6 @@ I like shipping products with strong foundations: type safety, maintainable arch
   <img src="https://thesvg.org/icons/github-actions/default.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" />
   <img src="https://thesvg.org/icons/linux/default.svg" width="38" height="38" alt="Linux" title="Linux" />
 </p>
-
 
 ### Frontend
 
@@ -132,26 +215,6 @@ I like shipping products with strong foundations: type safety, maintainable arch
 - Database-backed products with PostgreSQL and Drizzle
 - Monorepos with fast tooling and shared packages
 - Web and mobile experiences with React, Next.js, and Expo
-
----
-
-## 📊 GitHub stats
-
-## 📌 GitHub activity
-
-<p align="left">
-  <a href="https://github.com/arnoldfederis?tab=repositories">
-    <img src="https://img.shields.io/badge/Public_repositories-View_on_GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="View public repositories" />
-  </a>
-  <a href="https://github.com/arnoldfederis?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-Connect_on_GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers" />
-  </a>
-</p>
-
-<div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=arnoldfederis&hide_border=true&theme=transparent" alt="Arnolfo's GitHub streak" />
-</div>
-
 
 ---
 
