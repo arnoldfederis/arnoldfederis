@@ -77,6 +77,22 @@ I like shipping products with strong foundations: type safety, maintainable arch
   <img src="https://thesvg.org/icons/php/default.svg" width="38" height="38" alt="PHP" title="PHP" />
 </p>
 
+### DevOps, cloud, and infrastructure I know
+
+<p align="left">
+  <img src="https://thesvg.org/icons/cloudflare/default.svg" width="38" height="38" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://thesvg.org/icons/aws/default.svg" width="38" height="38" alt="AWS" title="AWS" />
+  <img src="https://thesvg.org/icons/amazons3/default.svg" width="38" height="38" alt="Amazon S3" title="Amazon S3" />
+  <img src="https://thesvg.org/icons/gcp/default.svg" width="38" height="38" alt="Google Cloud Platform" title="Google Cloud Platform" />
+  <img src="https://thesvg.org/icons/hetzner/default.svg" width="38" height="38" alt="Hetzner" title="Hetzner" />
+  <img src="https://thesvg.org/icons/docker/default.svg" width="38" height="38" alt="Docker" title="Docker" />
+  <img src="https://thesvg.org/icons/nginx/default.svg" width="38" height="38" alt="Nginx" title="Nginx" />
+  <img src="https://thesvg.org/icons/traefikproxy/default.svg" width="38" height="38" alt="Traefik" title="Traefik" />
+  <img src="https://thesvg.org/icons/githubactions/default.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://thesvg.org/icons/linux/default.svg" width="38" height="38" alt="Linux" title="Linux" />
+</p>
+
+
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=white)
