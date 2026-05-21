@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Arnolfo+Federis;Full-stack+Developer;I+build+fast%2C+typed%2C+scalable+products" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Arnolfo+Federis;Full-stack+Engineer;I+build+fast%2C+typed%2C+scalable+products" alt="Typing intro" />
 
   <p>
     <a href="mailto:arnoldfederis@gmail.com">
@@ -8,10 +8,10 @@
     <a href="https://github.com/arnoldfederis">
       <img src="https://img.shields.io/badge/GitHub-arnoldfederis-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <a href="https://www.linkedin.com/in/arnoldfederis">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://YOUR_PORTFOLIO_URL">
+    <a href="https://imeetly.app">
       <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
@@ -21,7 +21,7 @@
 
 ## 👋 About me
 
-I'm Arnolfo, a full-stack developer focused on building reliable, polished, and scalable web products. I enjoy working across the stack, from typed APIs and database design to clean UI systems and smooth developer experience.
+I'm Arnolfo, a Senior Full Stack Engineer focused on building reliable, polished, and scalable web products. I enjoy working across the stack, from typed APIs and database design to clean UI systems and smooth developer experience.
 
 I like shipping products with strong foundations: type safety, maintainable architecture, fast tooling, clean interfaces, and pragmatic automation.
 
@@ -38,12 +38,12 @@ I like shipping products with strong foundations: type safety, maintainable arch
   <img src="https://thesvg.org/icons/typescript/default.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />
   <img src="https://thesvg.org/icons/javascript/default.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
   <img src="https://thesvg.org/icons/react/default.svg" width="42" height="42" alt="React" title="React" />
-  <img src="https://thesvg.org/icons/nextjs/default.svg" width="42" height="42" alt="Next.js" title="Next.js" />
+  <img src="https://thesvg.org/icons/nextdotjs/default.svg" width="42" height="42" alt="Next.js" title="Next.js" />
   <img src="https://thesvg.org/icons/tanstack/default.svg" width="42" height="42" alt="TanStack" title="TanStack" />
-  <img src="https://thesvg.org/icons/tailwindcss/default.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://thesvg.org/icons/shadcnui/default.svg" width="42" height="42" alt="shadcn/ui" title="shadcn/ui" />
+  <img src="https://thesvg.org/icons/tailwind-css/default.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://thesvg.org/icons/shadcn-ui/default.svg" width="42" height="42" alt="shadcn/ui" title="shadcn/ui" />
   <img src="https://thesvg.org/icons/bun/default.svg" width="42" height="42" alt="Bun" title="Bun" />
-  <img src="https://thesvg.org/icons/elysia/default.svg" width="42" height="42" alt="Elysia" title="Elysia" />
+  <img src="https://thesvg.org/icons/elysiajs/default.svg" width="42" height="42" alt="Elysia" title="Elysia" />
   <img src="https://thesvg.org/icons/drizzle/default.svg" width="42" height="42" alt="Drizzle ORM" title="Drizzle ORM" />
   <img src="https://thesvg.org/icons/postgresql/default.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://thesvg.org/icons/neon/default.svg" width="42" height="42" alt="Neon" title="Neon" />
@@ -123,10 +123,10 @@ I like shipping products with strong foundations: type safety, maintainable arch
   <a href="https://github.com/arnoldfederis">
     <img src="https://img.shields.io/badge/GitHub-arnoldfederis-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/arnoldfederis">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL">
+  <a href="https://imeetly.app">
     <img src="https://img.shields.io/badge/Portfolio-View_my_work-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
