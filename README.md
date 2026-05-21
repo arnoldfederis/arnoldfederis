@@ -76,7 +76,7 @@ I like shipping products with strong foundations: type safety, maintainable arch
   <img src="https://thesvg.org/icons/php/default.svg" width="38" height="38" alt="PHP" title="PHP" />
 </p>
 
-## Language and framework pairs I know
+### Language and framework pairs I know
 
 <table>
   <tr>
