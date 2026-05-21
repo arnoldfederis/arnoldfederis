@@ -102,8 +102,6 @@ I like shipping products with strong foundations: type safety, maintainable arch
 
 ---
 
----
-
 ## 💡 Others
 
 ### DevOps, cloud, and infrastructure I know
