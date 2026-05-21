@@ -43,6 +43,7 @@ I like shipping products with strong foundations: type safety, maintainable arch
   <img src="https://thesvg.org/icons/tailwind-css/default.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
   <img src="https://thesvg.org/icons/shadcn-ui/default.svg" width="42" height="42" alt="shadcn/ui" title="shadcn/ui" />
   <img src="https://thesvg.org/icons/bun/default.svg" width="42" height="42" alt="Bun" title="Bun" />
+  <img src="https://thesvg.org/icons/nodedotjs/default.svg" width="42" height="42" alt="Bun" title="Node.js" />
   <img src="https://thesvg.org/icons/elysiajs/default.svg" width="42" height="42" alt="Elysia" title="Elysia" />
   <img src="https://thesvg.org/icons/drizzle/default.svg" width="42" height="42" alt="Drizzle ORM" title="Drizzle ORM" />
   <img src="https://thesvg.org/icons/postgresql/default.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />
@@ -71,6 +72,7 @@ I like shipping products with strong foundations: type safety, maintainable arch
 ### Backend and database
 
 ![Bun](https://img.shields.io/badge/Bun-0A0A0A?style=for-the-badge&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Elysia](https://img.shields.io/badge/Elysia-0A0A0A?style=for-the-badge&logo=bun&logoColor=white)
 ![ORPC](https://img.shields.io/badge/oRPC-0A0A0A?style=for-the-badge)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0A0A0A?style=for-the-badge&logo=drizzle&logoColor=white)
