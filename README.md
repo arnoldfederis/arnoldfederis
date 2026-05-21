@@ -60,7 +60,6 @@ I like shipping products with strong foundations: type safety, maintainable arch
   <img src="https://thesvg.org/icons/codex/default.svg" width="42" height="42" alt="GitHub" title="Codex" />
 </p>
 
-
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=white)
@@ -88,6 +87,39 @@ I like shipping products with strong foundations: type safety, maintainable arch
 ![Devbox](https://img.shields.io/badge/Devbox-0A0A0A?style=for-the-badge&logo=devbox&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-0A0A0A?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![SOPS](https://img.shields.io/badge/SOPS-0A0A0A?style=for-the-badge)
+
+---
+
+## 🚀 What I build
+
+- Full-stack SaaS apps
+- Type-safe APIs and service layers
+- Clean dashboards and product interfaces
+- Authentication and organization workflows
+- Database-backed products with PostgreSQL and Drizzle
+- Monorepos with fast tooling and shared packages
+- Web and mobile experiences with React, Next.js, and Expo
+
+---
+
+---
+
+## 💡 Others
+
+### DevOps, cloud, and infrastructure I know
+
+<p align="left">
+  <img src="https://thesvg.org/icons/cloudflare/default.svg" width="38" height="38" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://thesvg.org/icons/aws/default.svg" width="38" height="38" alt="AWS" title="AWS" />
+  <img src="https://thesvg.org/icons/aws-res-amazon-simple-storage-service-bucket/default.svg" width="38" height="38" alt="Amazon S3" title="Amazon S3" />
+  <img src="https://thesvg.org/icons/gcp-compute-engine/default.svg" width="38" height="38" alt="Google Cloud Platform" title="Google Cloud Platform" />
+  <img src="https://thesvg.org/icons/hetzner/default.svg" width="38" height="38" alt="Hetzner" title="Hetzner" />
+  <img src="https://thesvg.org/icons/docker/default.svg" width="38" height="38" alt="Docker" title="Docker" />
+  <img src="https://thesvg.org/icons/nginx/default.svg" width="38" height="38" alt="Nginx" title="Nginx" />
+  <img src="https://thesvg.org/icons/traefik-proxy/default.svg" width="38" height="38" alt="Traefik" title="Traefik" />
+  <img src="https://thesvg.org/icons/github-actions/default.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://thesvg.org/icons/linux/default.svg" width="38" height="38" alt="Linux" title="Linux" />
+</p>
 
 ### Programming languages I know
 
@@ -188,34 +220,6 @@ I like shipping products with strong foundations: type safety, maintainable arch
     </td>
   </tr>
 </table>
-
-
-### DevOps, cloud, and infrastructure I know
-
-<p align="left">
-  <img src="https://thesvg.org/icons/cloudflare/default.svg" width="38" height="38" alt="Cloudflare" title="Cloudflare" />
-  <img src="https://thesvg.org/icons/aws/default.svg" width="38" height="38" alt="AWS" title="AWS" />
-  <img src="https://thesvg.org/icons/aws-res-amazon-simple-storage-service-bucket/default.svg" width="38" height="38" alt="Amazon S3" title="Amazon S3" />
-  <img src="https://thesvg.org/icons/gcp-compute-engine/default.svg" width="38" height="38" alt="Google Cloud Platform" title="Google Cloud Platform" />
-  <img src="https://thesvg.org/icons/hetzner/default.svg" width="38" height="38" alt="Hetzner" title="Hetzner" />
-  <img src="https://thesvg.org/icons/docker/default.svg" width="38" height="38" alt="Docker" title="Docker" />
-  <img src="https://thesvg.org/icons/nginx/default.svg" width="38" height="38" alt="Nginx" title="Nginx" />
-  <img src="https://thesvg.org/icons/traefik-proxy/default.svg" width="38" height="38" alt="Traefik" title="Traefik" />
-  <img src="https://thesvg.org/icons/github-actions/default.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" />
-  <img src="https://thesvg.org/icons/linux/default.svg" width="38" height="38" alt="Linux" title="Linux" />
-</p>
-
----
-
-## 🚀 What I build
-
-- Full-stack SaaS apps
-- Type-safe APIs and service layers
-- Clean dashboards and product interfaces
-- Authentication and organization workflows
-- Database-backed products with PostgreSQL and Drizzle
-- Monorepos with fast tooling and shared packages
-- Web and mobile experiences with React, Next.js, and Expo
 
 ---
 
