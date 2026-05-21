@@ -67,7 +67,6 @@ I like shipping products with strong foundations: type safety, maintainable arch
   <img src="https://thesvg.org/icons/javascript/default.svg" width="38" height="38" alt="JavaScript" title="JavaScript" />
   <img src="https://thesvg.org/icons/html5/default.svg" width="38" height="38" alt="HTML5" title="HTML5" />
   <img src="https://thesvg.org/icons/css/default.svg" width="38" height="38" alt="CSS" title="CSS" />
-  <img src="https://thesvg.org/icons/sql/default.svg" width="38" height="38" alt="SQL" title="SQL" />
   <img src="https://thesvg.org/icons/bash/default.svg" width="38" height="38" alt="Bash" title="Bash" />
   <img src="https://thesvg.org/icons/swift/default.svg" width="38" height="38" alt="Swift" title="Swift" />
   <img src="https://thesvg.org/icons/go/default.svg" width="38" height="38" alt="Golang" title="Golang" />
