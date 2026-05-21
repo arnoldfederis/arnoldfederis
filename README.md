@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Arnolfo+Federis;Full-stack+Engineer;I+build+fast%2C+typed%2C+scalable+products" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Arnolfo+Federis;Full+Stack+Engineer;I+build+fast%2C+typed%2C+scalable+products" alt="Typing intro" />
 
   <p>
     <a href="mailto:arnoldfederis@gmail.com">
@@ -53,6 +53,8 @@ I like shipping products with strong foundations: type safety, maintainable arch
   <img src="https://thesvg.org/icons/expo/default.svg" width="42" height="42" alt="Expo" title="Expo" />
   <img src="https://thesvg.org/icons/docker/default.svg" width="42" height="42" alt="Docker" title="Docker" />
   <img src="https://thesvg.org/icons/github/default.svg" width="42" height="42" alt="GitHub" title="GitHub" />
+  <img src="https://thesvg.org/icons/polar/default.svg" width="42" height="42" alt="GitHub" title="Polar" />
+  <img src="https://thesvg.org/icons/better-auth/default.svg" width="42" height="42" alt="GitHub" title="Better Auth" />
 </p>
 
 ### Languages
@@ -64,7 +66,7 @@ I like shipping products with strong foundations: type safety, maintainable arch
 
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-0A0A0A?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-0A0A0A?style=for-the-badge&logo=tanstack&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0A0A0A?style=for-the-badge&logo=shadcnui&logoColor=white)
 
@@ -73,17 +75,18 @@ I like shipping products with strong foundations: type safety, maintainable arch
 ![Bun](https://img.shields.io/badge/Bun-0A0A0A?style=for-the-badge&logo=bun&logoColor=white)
 ![Elysia](https://img.shields.io/badge/Elysia-0A0A0A?style=for-the-badge&logo=bun&logoColor=white)
 ![ORPC](https://img.shields.io/badge/oRPC-0A0A0A?style=for-the-badge)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0A0A0A?style=for-the-badge)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0A0A0A?style=for-the-badge&logo=drizzle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-0A0A0A?style=for-the-badge&logo=neon&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-0A0A0A?style=for-the-badge&logo=zod&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-0A0A0A?style=for-the-badge&logo=temporal&logoColor=white)
 
 ### Mobile, tooling, and infrastructure
 
 ![Expo](https://img.shields.io/badge/Expo-0A0A0A?style=for-the-badge&logo=expo&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-0A0A0A?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Biome](https://img.shields.io/badge/Biome-0A0A0A?style=for-the-badge&logo=biome&logoColor=white)
-![Devbox](https://img.shields.io/badge/Devbox-0A0A0A?style=for-the-badge)
+![Devbox](https://img.shields.io/badge/Devbox-0A0A0A?style=for-the-badge&logo=devbox&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-0A0A0A?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![SOPS](https://img.shields.io/badge/SOPS-0A0A0A?style=for-the-badge)
 
